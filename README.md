@@ -6,10 +6,13 @@ Gun Loc aims to bring firearms into the Internet of Things. The product offered 
 This is the dashboard created using node express mongoose angular.
 ![GunLocUF](https://github.com/TiGaI/GunLocUF/blob/master/pictures/Dashboard.png "HomePage") 
 Phone message on an android stimulator
+<br />
 ![GunLocUF](https://github.com/TiGaI/GunLocUF/blob/master/pictures/Dashboard2.png "HomePage") 
 
 Hackathon Prototype
-![GunLocUF](https://github.com/TiGaI/GunLocUF/blob/master/pictures/proto1.jpg "HomePage") 
+<br />
+![GunLocUF](https://github.com/TiGaI/GunLocUF/blob/master/pictures/proto1.jpg "HomePage")
+<br />
 ![GunLocUF](https://github.com/TiGaI/GunLocUF/blob/master/pictures/proto2.png "HomePage") 
 
 ## HackIllinois 2016 - 3rd Place
